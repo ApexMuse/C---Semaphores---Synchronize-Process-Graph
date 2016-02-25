@@ -1,8 +1,5 @@
 /*	AUTHOR: Todd Twiggs
 *	DATE:	5 Nov 2015
-*	COURSE:	CSCI 3232 - Systems Software
-*	PROF:	Dr. Allen
-*	ASSIGNMENT 7, QUESTION 2
 */
 
 #include <stdio.h>
